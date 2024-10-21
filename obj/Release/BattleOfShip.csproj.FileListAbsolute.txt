@@ -1,0 +1,15 @@
+D:\программы\Работаю\BattleOfShip\bin\Release\BattleOfShip.exe.config
+D:\программы\Работаю\BattleOfShip\bin\Release\BattleOfShip.exe
+D:\программы\Работаю\BattleOfShip\bin\Release\BattleOfShip.pdb
+D:\программы\Работаю\BattleOfShip\obj\Release\BattleOfShip.csproj.AssemblyReference.cache
+D:\программы\Работаю\BattleOfShip\obj\Release\BattleOfShip.csproj.SuggestedBindingRedirects.cache
+D:\программы\Работаю\BattleOfShip\obj\Release\BattleOfShip.csproj.CoreCompileInputs.cache
+D:\программы\Работаю\BattleOfShip\obj\Release\BattleOfShip.exe
+D:\программы\Работаю\BattleOfShip\obj\Release\BattleOfShip.pdb
+C:\projects\программы\Game\BattleOfShip\bin\Release\BattleOfShip.exe.config
+C:\projects\программы\Game\BattleOfShip\bin\Release\BattleOfShip.exe
+C:\projects\программы\Game\BattleOfShip\bin\Release\BattleOfShip.pdb
+C:\projects\программы\Game\BattleOfShip\obj\Release\BattleOfShip.csproj.AssemblyReference.cache
+C:\projects\программы\Game\BattleOfShip\obj\Release\BattleOfShip.csproj.CoreCompileInputs.cache
+C:\projects\программы\Game\BattleOfShip\obj\Release\BattleOfShip.exe
+C:\projects\программы\Game\BattleOfShip\obj\Release\BattleOfShip.pdb

@@ -1,0 +1,8 @@
+D:\программы\Работаю\BattleOfShip\obj\Debug\BattleOfShip.csproj.AssemblyReference.cache
+D:\программы\Работаю\BattleOfShip\obj\Debug\BattleOfShip.csproj.SuggestedBindingRedirects.cache
+D:\программы\Работаю\BattleOfShip\obj\Debug\BattleOfShip.csproj.CoreCompileInputs.cache
+D:\программы\Работаю\BattleOfShip\bin\Debug\BattleOfShip.exe.config
+D:\программы\Работаю\BattleOfShip\bin\Debug\BattleOfShip.exe
+D:\программы\Работаю\BattleOfShip\bin\Debug\BattleOfShip.pdb
+D:\программы\Работаю\BattleOfShip\obj\Debug\BattleOfShip.exe
+D:\программы\Работаю\BattleOfShip\obj\Debug\BattleOfShip.pdb
